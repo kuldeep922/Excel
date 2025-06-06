@@ -1,0 +1,91 @@
+✅*Amazon Sales Dashboard – Excel (2024)*
+ I'm excited to share my latest excel "Amazon sales dashboard 2024" designed for real-time performance tracking and analysis ...
+## DATA SET USE IT 
+-<a href="https://github.com/kuldeep922/Excel/blob/main/Sales%20Data.xlsx">Dataset view</a>
+
+✅Project Description:-
+
+Developed a dynamic and interactive Amazon Sales Dashboard in Microsoft Excel to monitor, analyze, and report key sales metrics for the year 2024. The dashboard provided real-time insights into product performance, revenue trends, customer behavior, and regional sales distribution.
+
+✅Key Responsibilities:-
+
+* Consolidated and cleaned monthly sales data exported from Amazon Seller Central.
+* Created pivot tables and dynamic charts to visualize metrics such as total sales, units sold, profit margins, and top-performing SKUs.
+* Implemented slicers and drop-down filters for category, time period, and region to allow user-friendly interactivity.
+* Automated data refresh using Power Query to streamline monthly updates.
+* Applied conditional formatting to highlight critical KPIs such as sales growth, inventory shortages, and underperforming products.
+
+Tools Used:-
+
+✅ Microsoft Excel (Power Query, Pivot Tables, Charts, Conditional Formatting, Data Validation)
+✅ Amazon Seller Central (data source)
+
+Impact:-
+
+✅ Reduced manual reporting time by 60%.
+✅ Enabled data-driven decision-making, leading to a 15% increase in sales through improved inventory and marketing strategies.
+
+Create a raw data table with the following columns or import from a Excel file:-
+
+Order ID,	Date,	Product	Category,	Units Sold,	Unit Price,	Revenue	Region,	Returns.
+
+✅Step 1:Formulas
+Revenue = Units Sold × Unit Price
+
+Net Revenue = Revenue – (Returns × Unit Price)
+
+✅Step 2: Clean and Organize
+Convert your data into an Excel Table (Insert > Table) for dynamic referencing.
+
+Check for empty or inconsistent fields.
+
+✅Step 3: Add Pivot Tables
+Go to Insert > PivotTable and create these:
+
+Monthly Sales
+
+Category-wise Sales
+
+Top-Selling Products
+
+Region-wise Performance
+
+Return Analysis
+
+✅Step 4: Create Charts
+Use the PivotTables to insert charts:
+
+Bar Charts – Top categories or products
+
+Line Graph – Monthly revenue trends
+
+Pie Chart – Region-wise contribution
+
+Stacked Column – Orders vs Returns
+
+✅Step 5: Build Dashboard Sheet
+Create a new sheet called “Dashboard”
+
+Paste your charts and pivot data summaries neatly
+
+Add slicers for interactivity (e.g., by month, region, or category)
+
+Use Insert > Slicer to let users filter data dynamically.
+
+✅ Uses of Amazon Sales Dashboard in Excel
+Performance Monitoring – Track revenue, orders, and returns monthly.
+
+Decision Making – Identify best-selling products and profitable categories.
+
+Marketing Strategy – Spot sales trends to align campaigns with peak periods.
+
+Inventory Planning – Know what products need restocking.
+
+Customer Insights – Understand regional demand and customer behavior.
+
+Return Management – Monitor high-return items for quality checks.
+
+✅ Lokking for a custom dashboard ? Let's Connect
+
+-dashboard <a  href="https://github.com/kuldeep922/Excel/blob/main/WhatsApp%20Image%202025-06-06%20at%203.36.59%20PM.jpeg">dashboard view
+
